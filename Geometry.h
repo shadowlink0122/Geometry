@@ -4,6 +4,7 @@
 
 namespace Geometry{
   #define equals(a,b) (fabs((a) - (b)) < EPS)
+  #define BOTTOM 0
   #define LEFT 1
   #define RIGHT 2
   #define TOP 3
