@@ -1,4 +1,7 @@
 
+#include <iomanip>
+using namespace std;
+
 #ifndef _GEOMETRY_H_
 #define _GEOMETRY_H_
 
